@@ -1,5 +1,5 @@
 class Country{
   void condition(){
-    System.out.println('i don\'t know');
+    System.out.println("Oh i don't know");
   }
 }
