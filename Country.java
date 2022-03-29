@@ -4,6 +4,6 @@ class Country{
   }
   public static void main(String[] args){
     Country india = new Country();
-    india.condition();
+    india.condition(); 
   }
 }
